@@ -1,4 +1,4 @@
-CR1
-new feature
-remote add
-test pull
+=>CR1
+=>new feature
+=>remote add
+=>test pull
