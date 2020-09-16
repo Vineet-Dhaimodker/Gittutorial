@@ -1,5 +1,6 @@
 bug1: fix
+===========
+master: fix
+-----------
+bug2: fix
 
-=========
-
-master fix
