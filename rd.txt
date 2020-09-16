@@ -5,3 +5,5 @@ master: fix
 bug2: fix
 -----------
 test rebase merging without conflict
+-----------
+local change
